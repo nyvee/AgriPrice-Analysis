@@ -52,7 +52,7 @@ The project uses the following datasets:
 ---
 
 ## Tools & Libraries
-- **Programming Language**: Python
+- **Programming Language**: Jupyter Notebook (Python)
 - **Development Environment**: Visual Studio Code
 - **Libraries**:
   - **Pandas**: Data manipulation and preprocessing.
